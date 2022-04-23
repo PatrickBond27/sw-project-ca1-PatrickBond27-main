@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    This is the about page?
+                    This is the about page
                 </div>
             </div>
         </div>
